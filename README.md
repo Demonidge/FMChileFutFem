@@ -3,19 +3,9 @@
 It is a customerized database for Football Manager 2022. It added Femenino Caja Los Andes (Primera A) of Chile women's championship.
 
 # Teams included
-Team Name | Player Data | Face Pack 
---- | --- | --- 
-Universidad de Chile | Yes | Yes 
-Santiago Morning | Yes | Yes 
-Universidad de Concepcion | Yes | Yes 
-Fernandez Vial | Yes | Yes 
-La Serena | Yes | No
-Audax Italiano | Yes | No
-Palestino | Yes | No
-Colo Colo | Yes | No
+The 2022 database have all of the teams except Everton Viña (partially entered), O'Higgins, Puerto Montt, and Huachipato.
+The face pack will be available later.
 
-# 2021 version.
-I also have version of database for FM 2021. Due to time constraint, I am not going to update it. You can try to use the 2022 database in 2021 (may have to import it in the pre-game editor and export as 2021 format), but it might break.
 
 # Install
 1. Download the fmf file and put it in C:\Users\<your profile>\Documents\Sports Interactive\Football Manager 2022\editor data. 
