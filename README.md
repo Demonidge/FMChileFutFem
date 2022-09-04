@@ -14,6 +14,11 @@ En el facepack faltan Everton, Iquique, Antofagasta, Huachipato y O'Higgins. Los
 4. Haz clic en "Añadir/Quitar Ligas", y elige Chile, haz clic en confirmar.
 5. Elige "Comenzar partida"
 
+## Instalar el facepack
+Vea este vídeo.
+
+https://www.youtube.com/watch?v=ohsl4qwDFfM
+
 ## Consejos
 1. Asegúrate de marcar "Añadir jugadores a equipos jugables" ya que algunos equipos no tienen suficientes jugadores.
 2. Para probarlo, haz clic en "Desactivar la máscara de atributos de los jugadores", para que puedas ver los atributos de las jugadoras de otros equipos.
